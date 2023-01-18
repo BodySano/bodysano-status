@@ -11,7 +11,8 @@ sites:
     url: https://api.bodysano.com
 
 status-website:
-  cname: bodysano.com
+  cname: bodysano.github.io
+  baseUrl: /bodysano-status
   name: BodySano
   navbar:
     - title: Status
