@@ -12,7 +12,4 @@ sites:
 
 status-website:
   baseUrl: /bodysano-status
-  name: BodySano
-  navbar:
-    - title: Status
-      href: /
+  name: BodySano Status
