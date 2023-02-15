@@ -4,19 +4,19 @@
     "url": "https://www.bodysano.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bodysano.com.ico",
     "slug": "body-sano-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1858,
-    "timeDay": 2145,
-    "timeWeek": 1715,
-    "timeMonth": 1858,
-    "timeYear": 1858,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1838,
+    "timeDay": 1667,
+    "timeWeek": 1649,
+    "timeMonth": 1838,
+    "timeYear": 1838,
     "dailyMinutesDown": {
-      "2023-02-15": 0
+      "2023-02-15": 18
     }
   },
   {
