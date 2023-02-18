@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1819,
-    "timeDay": 1821,
-    "timeWeek": 1564,
-    "timeMonth": 1819,
-    "timeYear": 1819,
+    "time": 1801,
+    "timeDay": 1167,
+    "timeWeek": 1505,
+    "timeMonth": 1801,
+    "timeYear": 1801,
     "dailyMinutesDown": {
       "2023-02-15": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 685,
-    "timeWeek": 516,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "time": 534,
+    "timeDay": 408,
+    "timeWeek": 500,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bodysano.com.ico",
     "slug": "body-sano-api",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 521,
-    "timeDay": 635,
-    "timeWeek": 489,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 517,
+    "timeDay": 351,
+    "timeWeek": 470,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2023-01-18": 66
     }
