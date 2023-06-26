@@ -4,10 +4,10 @@
     "url": "https://www.bodysano.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bodysano.com.ico",
     "slug": "body-sano-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1692,
@@ -16,6 +16,7 @@
     "timeMonth": 1810,
     "timeYear": 1692,
     "dailyMinutesDown": {
+      "2023-06-26": 1,
       "2023-02-26": 22,
       "2023-02-21": 19,
       "2023-02-15": 18
@@ -26,10 +27,10 @@
     "url": "https://diet.bodysano.com",
     "icon": "https://icons.duckduckgo.com/ip3/diet.bodysano.com.ico",
     "slug": "body-diet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 519,
@@ -38,6 +39,7 @@
     "timeMonth": 509,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2023-06-26": 1,
       "2023-02-26": 21,
       "2023-02-21": 18
     }
@@ -47,7 +49,7 @@
     "url": "https://api.bodysano.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.bodysano.com.ico",
     "slug": "body-sano-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,6 +61,7 @@
     "timeMonth": 543,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2023-06-26": 0,
       "2023-02-26": 21,
       "2023-02-21": 18,
       "2023-01-18": 66
