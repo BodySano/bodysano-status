@@ -6,15 +6,15 @@
     "slug": "body-sano-website",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.84%",
     "time": 1803,
-    "timeDay": 1715,
-    "timeWeek": 1833,
-    "timeMonth": 2056,
-    "timeYear": 1805,
+    "timeDay": 1761,
+    "timeWeek": 1825,
+    "timeMonth": 2065,
+    "timeYear": 1806,
     "dailyMinutesDown": {
       "2024-02-19": 80,
       "2024-02-18": 140,
@@ -23,8 +23,7 @@
       "2023-08-24": 43,
       "2023-08-21": 444,
       "2023-06-26": 40,
-      "2023-02-26": 22,
-      "2023-02-21": 19
+      "2023-02-26": 22
     }
   },
   {
@@ -34,13 +33,13 @@
     "slug": "body-diet",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.63%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.82%",
-    "time": 537,
-    "timeDay": 449,
-    "timeWeek": 452,
+    "time": 536,
+    "timeDay": 450,
+    "timeWeek": 459,
     "timeMonth": 508,
     "timeYear": 537,
     "dailyMinutesDown": {
@@ -52,8 +51,7 @@
       "2023-08-24": 42,
       "2023-08-21": 443,
       "2023-06-26": 39,
-      "2023-02-26": 21,
-      "2023-02-21": 18
+      "2023-02-26": 21
     }
   },
   {
@@ -63,13 +61,13 @@
     "slug": "body-sano-api",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.83%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.84%",
-    "time": 506,
-    "timeDay": 407,
-    "timeWeek": 444,
+    "time": 505,
+    "timeDay": 444,
+    "timeWeek": 455,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {
@@ -80,8 +78,7 @@
       "2023-08-24": 42,
       "2023-08-21": 443,
       "2023-06-26": 39,
-      "2023-02-26": 21,
-      "2023-02-21": 18
+      "2023-02-26": 21
     }
   }
 ]
