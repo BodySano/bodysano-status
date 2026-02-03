@@ -4,7 +4,7 @@
     "url": "https://www.bodysano.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bodysano.com.ico",
     "slug": "body-sano-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1663,
     "timeYear": 1042,
     "dailyMinutesDown": {
+      "2026-02-03": 0,
       "2025-12-19": 29,
       "2025-11-18": 179,
       "2025-10-23": 22,
