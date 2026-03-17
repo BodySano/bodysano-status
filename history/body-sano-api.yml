@@ -1,7 +1,7 @@
 url: https://api.bodysano.com
-status: down
-code: 503
-responseTime: 533
-lastUpdated: 2026-03-17T20:29:59.895Z
+status: up
+code: 200
+responseTime: 292
+lastUpdated: 2026-03-17T21:07:23.287Z
 startTime: 2023-01-18T13:08:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
